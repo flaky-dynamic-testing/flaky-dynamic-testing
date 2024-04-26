@@ -1,0 +1,5 @@
+Target,Name,Link to the tool,Last updated
+C/C++/Rust,allocscope,https://github.com/matt-kimball/allocscope,"Feb 24, 2023"
+Crash Analysis and Severity Report.,CASR,https://crates.io/crates/casr,"Nov 11, 2023"
+Real-time code coverage,Code Pulse,http://code-pulse.com/,"May 21, 2021"
+Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle.,Sydr,https://sydr-fuzz.github.io/,"Nov 11, 2023"

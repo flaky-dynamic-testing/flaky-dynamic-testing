@@ -1,0 +1,37 @@
+Language,Name,Link to the tool,Last update
+.NET,Microsoft  IntelliTest,Overview of Microsoft IntelliTest - Visual Studio,"Oct 3, 2023"
+.NET,Pex and Moles,https://www.microsoft.com/en-us/research/project/pex-and-moles-isolation-and-white-box-unit-testing-for-net/,
+C,CHAP,"GitHub - vmware/chap: chap analyzes un-instrumented core files for leaks, memory growth, and corruption","Nov 8, 2023"
+C,KLEE,KLEE Symbolic Execution Engine,"Oct 20, 2023"
+C,LDRA,https://ldra.com/LDRA,
+C,LLVM/CLANG Sanitizers,"GitHub - google/sanitizers: AddressSanitizer, ThreadSanitizer, MemorySanitizer","Oct 2, 2023"
+C,tis-interpreter,GitHub - TrustInSoft/tis-interpreter: An interpreter for finding subtle bugs in programs written in standard C,"Dec 14, 2016"
+C ,Valgrind,https://valgrind.org/,"Oct 31, 2023"
+C++,CHAP,"GitHub - vmware/chap: chap analyzes un-instrumented core files for leaks, memory growth, and corruption","Nov 8, 2023"
+C++,KLEE,KLEE Symbolic Execution Engine,"Oct 20, 2023"
+C++,LDRA,https://ldra.com/LDRA,
+C++,LLVM/CLANG Sanitizers,"GitHub - google/sanitizers: AddressSanitizer, ThreadSanitizer, MemorySanitizer","Oct 2, 2023"
+C++,tis-interpreter,https://github.com/TrustInSoft/tis-interpreter,7 years ago
+C++,Valgrind,https://valgrind.org/,"Oct 31, 2023"
+Go,statsviz,https://github.com/arl/statsviz,last month
+Java,Java PathFinder,https://github.com/javapathfinder/jpf-core,"Oct 2, 2023"
+Java,Parasoft JTest,https://www.parasoft.com/products/jtest,
+JavaScript,Iroh.js,https://github.com/maierfelix/Iroh,"Jan 19, 2018"
+JavaScript,Jalangi2,https://github.com/Samsung/jalangi2,"Mar 4, 2023"
+PHP,Enlightn,https://www.laravel-enlightn.com/,"Jul 22, 2023"
+Python,CrossHair,https://github.com/pschanely/CrossHair,last week
+Python,DynaPyt,https://github.com/sola-st/DynaPyt,last week
+Python,icontract,https://github.com/Parquery/icontract,"Nov 9, 2023"
+Python,Scalene,https://github.com/emeryberger/scalene,"Jul 27, 2023"
+Python,typo,https://github.com/aldanor/typo,"Nov 7, 2016"
+Ruby,suture,https://github.com/aldanor/typo,"Sep 29, 2023"
+Rust,cargo-careful,https://github.com/RalfJung/cargo-careful,"Sep 29, 2023"
+Rust,hyper-fine,https://github.com/sharkdp/hyperfine,"Oct 5, 2023"
+Rust,Ioom,https://github.com/tokio-rs/loom,"Oct 2, 2023"
+Rust,MIRI,https://github.com/rust-lang/miri,"Nov 5, 2023"
+Rust,puffin,https://github.com/EmbarkStudios/puffin,"Jan 31, 2023"
+Rust,rust-san,https://github.com/japaric/rust-san,"Sep 7, 2017"
+Rust,stuck,https://github.com/jonhoo/stuck,"Jan 17, 2020"
+SQL,Whitehat Sentinel Dynamic,https://www.synopsys.com/software-integrity/security-testing/dast.html,
+Visual Basic,VB Watch,https://www.aivosto.com/vbwatch.html,
+Zig,poop,https://github.com/andrewrk/poop,"Jun 22, 2023"

@@ -1,0 +1,19 @@
+Target,Name,Link to the tool,Last updated
+API,Smartbear,https://smartbear.com/,
+Binaries,angr,https://github.com/angr/angr,"Nov 8, 2023"
+Binaries,BOLT,https://github.com/facebookarchive/BOLT,"May 26, 2022"
+Binaries,Dr.Memory,https://drmemory.org/,"Sep 22, 2023"
+Binaries,DynamoRIO,http://www.dynamorio.org/,"Aug 18, 2023"
+Binaries,llvm-propeller,https://github.com/google/llvm-propeller,last year
+Binaries,Pin Tools,https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-dynamic-binary-instrumentation-tool.html,"July 3, 2023"
+Binaries,TRITON,https://triton-library.github.io/,"Feb 9, 2022"
+Bytecode/IR,souper,https://github.com/google/souper,last week
+Cloud ,prowler,https://prowler.pro/,
+Containers,cadvisor,https://github.com/google/cadvisor,last week
+Laravel,Enlightn,https://www.laravel-enlightn.com/,"Jul 22, 2023"
+Security/DAST,AppScan Standard,https://www.hcl-software.com/appscan/products/appscan-standard?referrer=github.com,
+Security/DAST,Enlightn,https://www.laravel-enlightn.com/,"Jul 22, 2023"
+Security/DAST,WhiteHat Sentinel Dynamic,https://www.synopsys.com/software-integrity/security-testing/dast.html,
+Web,Smartbear,https://smartbear.com/,
+WebAssembly,Wasabi,https://github.com/danleh/wasabi,"Aug 11, 2023"
+XML,WhiteHat Sentinel Dynamic,https://www.synopsys.com/software-integrity/security-testing/dast.html,
