@@ -9,7 +9,7 @@ The data directory contains the following subdirectories:
 - `dynamic_tools`: Contains csv files for dynamic analysis tools.
 
 ### Popular_repos
-The directory `Popular_repos` contains csv files for popular Java and Rust repositories. The data was collected on 29/03/2024 13:46, so the popularity of the repositories may have changed since then.
+The directory `Popular_repos` contains csv files for popular Java and Rust repositories. The data was collected on 30/04/2024 16:36:59, so the popularity of the repositories may have changed since then.
 The csv files contain the following columns:
 <!-- Name,Link,Default Branch,SHA,Stargazers Count,Forks Count,Date -->
 <!-- joaomlneto/travis-ci-tutorial-java,https://github.com/joaomlneto/travis-ci-tutorial-java,master,f35723e317bb63a403719d82f2b054458babf472,37,510,29/03/2024 13:46:44 -->
