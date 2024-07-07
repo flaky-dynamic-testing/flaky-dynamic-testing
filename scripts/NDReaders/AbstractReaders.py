@@ -79,7 +79,7 @@ class AbstractReader(ABC):
                         print(f"Invalid location! File {log_filename} not found.")
 
     def download_artifacts(self, repo_owner, repo_name, output_dir,  workflow_name, pat_token):
-        excluded_branches = ['main', 'master', '1.8', '3.2', '4.1', '2.x', '2023.x', '3.x', 'dev', 'devel', 'develop', 'release-v2', 'trunk', 'uinverse', 'v5-master', 'next', 'v1.x']
+        excluded_branches = ['main', 'master', '1.8', '3.2', '4.1', '2.x', '2023.x', '3.x', 'dev', 'devel', 'develop', 'release-v2', 'trunk', 'uinverse', 'v5-master', 'next', 'v1.x', 'unstable']
         headers = {
             "Accept": "application/vnd.github.v3+json",
             "Authorization": f"Bearer {pat_token}"
